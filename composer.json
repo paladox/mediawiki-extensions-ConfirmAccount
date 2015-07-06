@@ -21,15 +21,6 @@
 		"issues": "https://www.mediawiki.org/wiki/Extension_talk:ConfirmAccount",
 		"irc"   : "irc://irc.freenode.org/mediawiki"
 	},
-	"repositories": [
-	{
-
-		"type": "git",
-
-		"url": "https://github.com/paladox/mediawiki-extensions-ConfirmAccount.git"
-
-	}
-	],
 	"require"    : {
 		"php"                : ">=5.3.2"
 	}
