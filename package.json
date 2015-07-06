@@ -1,9 +1,0 @@
-{
-  "name":     "mediawiki/confirmaccount",
-
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/paladox/mediawiki-extensions-ConfirmAccount.git"
-  },
-}
-
