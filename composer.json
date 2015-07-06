@@ -2,7 +2,7 @@
 	"name"       : "mediawiki/confirmaccount",
 	"type"       : "mediawiki-extension",
 	"description": "Gives bureaucrats the ability to confirm account requests",
-	"minimum-stability": "dev-master",
+	"minimum-stability": "dev",
 	"keywords"   : [
 		"wiki",
 		"MediaWiki",
