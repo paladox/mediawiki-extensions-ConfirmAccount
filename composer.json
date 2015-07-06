@@ -23,6 +23,6 @@
 	},
 	"require"    : {
 		"php"                : ">=5.3.2",
-		"mediawiki/confirmaccount": "@dev"
+		"mediawiki/confirmaccount": "dev-master"
 	}
 }
